@@ -64,7 +64,4 @@ Used cross-validation for model selection.
 Assessed accuracy, precision, recall, and F1-score.
 
 Generated confusion matrices and classification reports.
-# Installation
-
-git clone https://github.com//Customer-RevFakiha1407iews-Sentiment-Analysis.git
 
